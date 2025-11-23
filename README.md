@@ -1,10 +1,10 @@
-# 📘 Machine Learning & NLP Projects Repository
+#  Machine Learning & NLP Projects Repository
 
 This repository contains a collection of Jupyter notebooks focused on **Machine Learning**, **Natural Language Processing**, and **Predictive Modeling**. The projects demonstrate practical experience in building ML models, text‑processing pipelines, and sequence prediction tasks — ideal for academic, portfolio, and resume showcasing.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ### **1. ML_worksheet1ipynb.ipynb**
 
@@ -35,7 +35,7 @@ A full sentiment‑analysis pipeline involving:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### **Prerequisites**
 
@@ -76,7 +76,7 @@ Open any of the `.ipynb` files to explore the project.
 
 ---
 
-## 📖 Project Highlights
+##  Project Highlights
 
 * Clean, well‑structured ML and NLP workflows
 * Demonstrates ability to work with text data
@@ -102,8 +102,8 @@ For a more organized repository, you can structure it like:
 
 ---
 
-## ⭐ About This Repository
+##  About This Repository
 
 This project set reflects practical skills in machine learning and natural language processing. The notebooks are designed to be clear, beginner‑friendly, and useful for demonstrating applied ML/NLP knowledge to recruiters, professors, or project reviewers.
 
-If you want to add badges, project URLs, or a `requirements.txt` file, just tell me — I can generate them.
+
