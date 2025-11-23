@@ -86,21 +86,7 @@ Open any of the `.ipynb` files to explore the project.
 
 ---
 
-## 🗂 Folder Suggestions (Optional)
 
-For a more organized repository, you can structure it like:
-
-```
-├── notebooks/
-│   ├── ML_worksheet1ipynb.ipynb
-│   ├── Next Word Predictor.ipynb
-│   └── sentiment_pipeline.ipynb
-├── data/           # optional dataset folder
-├── requirements.txt
-└── README.md
-```
-
----
 
 ##  About This Repository
 
